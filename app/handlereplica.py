@@ -16,6 +16,8 @@ def sendAll(msg):
                 continue
     print("done")
 
+
+
 def sentok(soc):
     print(soc)
     for i in replica:
