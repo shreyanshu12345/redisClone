@@ -5,6 +5,7 @@ def addrep(dic):
     replica.append(dic)
     print(replica)
 
+
 def sendAll(msg):
     if(len(replica) > 0):
         for i in replica:
